@@ -1,0 +1,49 @@
+.titúlo {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgb(10, 39, 168);
+    font-family: Arial;
+    text-align: center;
+    color: #fff;    
+    width: 100%;
+    padding: 12px;
+    margin: 0;
+}
+
+.valor {
+    padding: 15px;
+    background-color: #50f105;
+    border-radius: 6px;
+    border: 2px solid #0c274b; 
+    text-decoration: none;
+    color: #030c3d;
+    
+} 
+
+.valor:hover{
+    background-color: #49cf0b;
+    transition: 1,0s;
+}
+
+.titúlo-livro {
+     color: rgb(10, 39, 168);
+     font-family: Helvetica;
+     padding: 5px;
+}
+
+
+.block {
+    display: inline-block;
+    margin: 100px;
+}
+
+.nome {
+    background-color: rgb(10, 39, 168);
+    color: #fff;
+    display: flexbox;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial;
+}
+
